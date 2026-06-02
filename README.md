@@ -39,21 +39,30 @@ ChatSphere is a full-stack real-time chat application that enables users to comm
 
 ## 📷 Screenshots
 
-Add your project screenshots here.
-
 ### Join Screen
-![Join Screen](screenshots/join-screen.png)
 
-### Chat Interface
-![Chat Interface](screenshots/chat-ui.png)
+![Join Screen](Screenshot%202026-05-24%20013126.png)
+
+### Dark & Light Mode
+
+![Dark Light Mode](Screenshot%202026-05-24%20013137.png)
 
 ### Real-Time Messaging
-![Real-Time Messaging](screenshots/realtime-chat.png)
+
+![Real-Time Messaging](Screenshot%202026-05-24%20013203.png)
 
 ### Typing Indicator
-![Typing Indicator](screenshots/typing-indicator.png)
+
+![Typing Indicator](Screenshot%202026-05-24%20013242.png)
 
 ### Emoji Support
-![Emoji Support](screenshots/emoji-picker.png)
+
+![Emoji Support](Screenshot%202026-05-24%20013412.png)
+
+### Online Users Tracking
+
+![Online Users](Screenshot%202026-05-24%20013424.png)
+
+
 
 ## 📂 Project Structure
