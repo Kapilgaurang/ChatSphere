@@ -37,29 +37,35 @@ ChatSphere is a full-stack real-time chat application that enables users to comm
 - Git
 - GitHub
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-### Join Screen
+### 🚀 Join Screen
+Users can enter their name and join the chat room instantly.
 
 ![Join Screen](Screenshot%202026-05-24%20013126.png)
 
-### Dark & Light Mode
+### 🌙 Dark & Light Mode
+Switch seamlessly between dark and light themes for a better user experience.
 
-![Dark Light Mode](Screenshot%202026-05-24%20013137.png)
+![Dark and Light Mode](Screenshot%202026-05-24%20013137.png)
 
-### Real-Time Messaging
+### 😀 Emoji Picker Support
+Integrated emoji picker for expressive conversations.
 
-![Real-Time Messaging](Screenshot%202026-05-24%20013203.png)
+![Emoji Support](Screenshot%202026-05-24%20013203.png)
 
-### Typing Indicator
+### 💬 Real-Time Chat Interface
+Messages are delivered instantly using Socket.io.
 
-![Typing Indicator](Screenshot%202026-05-24%20013242.png)
+![Real-Time Messaging](Screenshot%202026-05-24%20013242.png)
 
-### Emoji Support
+### ⌨️ Typing Indicator
+Users can see when another participant is typing a message.
 
-![Emoji Support](Screenshot%202026-05-24%20013412.png)
+![Typing Indicator](Screenshot%202026-05-24%20013412.png)
 
-### Online Users Tracking
+### 👥 Online Users Tracking
+Displays currently connected users in real time.
 
 ![Online Users](Screenshot%202026-05-24%20013424.png)
 
